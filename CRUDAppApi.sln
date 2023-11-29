@@ -13,6 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApp.Contracts", "CRUDAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApp.Core", "CRUDApp.Core\CrudApp.Core.csproj", "{BDAE627C-3EEA-48F1-B9E2-246EC357CFDF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{57BC8569-C974-4A52-9458-61C60770AF08}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\script.sql = Documents\script.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
